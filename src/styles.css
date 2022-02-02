@@ -8,10 +8,12 @@ h1 {
 p {
   text-align: center;
 }
-.navigation-links {
+
+.navigation-links a {
   display: flex;
-  justify-content: space-evenly;
+
   text-align: center;
+  margin: 0 10px;
 }
 .croissant-image {
   max-width: 100%;
