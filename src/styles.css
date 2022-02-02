@@ -9,7 +9,7 @@ p {
   text-align: center;
 }
 
-.navigation-links a {
+.navigation-links {
   display: flex;
   justify-content: center;
   text-align: center;
